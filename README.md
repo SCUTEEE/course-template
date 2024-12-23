@@ -4,9 +4,12 @@
 
 ## 基本信息
 
-- 专业：![](https://img.shields.io/badge/必修-4学分-blue)
-  - 老师A：![](https://img.shields.io/badge/作业-20%-blue) ![](https://img.shields.io/badge/论文-20%-yellow) ![](https://img.shields.io/badge/考试-60%-red)
-  - 老师B：![](https://img.shields.io/badge/作业-20%-blue) ![](https://img.shields.io/badge/论文-20%-yellow) ![](https://img.shields.io/badge/考试-60%-red)
+- 专业A：![](https://img.shields.io/badge/必修-4学分-blue)
+  - 老师A：![](https://img.shields.io/badge/作业-20%25-blue) ![](https://img.shields.io/badge/论文-20%25-yellow) ![](https://img.shields.io/badge/考试-60%25-red)
+  - 老师B：![](https://img.shields.io/badge/作业-20%25-blue) ![](https://img.shields.io/badge/论文-20%25-yellow) ![](https://img.shields.io/badge/考试-60%25-red)
+- 专业B：![](https://img.shields.io/badge/必修-4学分-blue)
+  - 老师A：![](https://img.shields.io/badge/作业-20%25-blue) ![](https://img.shields.io/badge/论文-20%25-yellow) ![](https://img.shields.io/badge/考试-60%25-red)
+  - 老师B：![](https://img.shields.io/badge/作业-20%25-blue) ![](https://img.shields.io/badge/论文-20%25-yellow) ![](https://img.shields.io/badge/考试-60%25-red)
 
 ## 教材、参考书、其他参考资料
 
@@ -30,7 +33,7 @@
 
 ## 考试
 
-### xx 专业/xx 专业
+### A专业/B专业
 
 - 考试范围：第xx章到第xx章
 - 题型：
